@@ -1,0 +1,14 @@
+
+========================================
+   ROBOT TELEMETRY MONITORING REPORT
+========================================
+
+Stored telemetry readings : 200
+Rejected records (latest run): 0
+Average temperature       : 50.41 °C
+Maximum temperature       : 74.89 °C
+Gripper-closed readings   : 95
+
+Database                  : E:\robot-telemetry-pipeline\data\robot_telemetry.db
+
+========================================

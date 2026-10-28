@@ -1,11 +1,17 @@
-#python virtual environment
+
+# Virtual environment
 .venv/
 
-#pythin cache
+# Python cache
 __pycache__/
 *.py[cod]
+**/__pycache__/
 
-#Generated telemetry data
+# Generated data and database
 data/*.csv
 data/*.db
+data/*.log
+data/*.txt
 
+# Secrets
+.env
