@@ -1,0 +1,11 @@
+#python virtual environment
+.venv/
+
+#pythin cache
+__pycache__/
+*.py[cod]
+
+#Generated telemetry data
+data/*.csv
+data/*.db
+
